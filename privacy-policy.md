@@ -1,11 +1,11 @@
 # Privacy Policy — Empire Ledger: Business Tycoon
 
-**Developer:** 3 Stars Studio (independent developer)
+**Developer:** 3StarStudio (independent developer)
 **Contact:** 3starsstudio@gmail.com
 **Effective date:** September 13, 2026
 **Last updated:** September 13, 2026
 
-This policy applies to the mobile application **Empire Ledger: Business Tycoon** ("the App") published on Google Play by **3 Stars Studio** ("we", "us"). The App is an offline-first idle business-tycoon game. This policy explains what information the App handles, why, and the choices you have. We designed the App to collect as little as possible: **no account sign-up, no email, no real name, no location, no contacts, no camera or microphone access.**
+This policy applies to the mobile application **Empire Ledger: Business Tycoon** ("the App") published on Google Play by **3StarStudio** ("we", "us"). The App is an offline-first idle business-tycoon game. This policy explains what information the App handles, why, and the choices you have. We designed the App to collect as little as possible: **no account sign-up, no email, no real name, no location, no contacts, no camera or microphone access.**
 
 ---
 
@@ -118,6 +118,6 @@ We may update this policy from time to time. The "Last updated" date at the top 
 This policy is published at a permanent public URL, is linked from the App's Google Play store listing, and is accessible inside the App under **Profile → Privacy Policy**.
 
 ## 13. Contact
-**3 Stars Studio** — developer of *Empire Ledger: Business Tycoon* on Google Play
+**3StarStudio** — developer of *Empire Ledger: Business Tycoon* on Google Play
 Email: **3starsstudio@gmail.com**
 We aim to answer privacy inquiries within 30 days.

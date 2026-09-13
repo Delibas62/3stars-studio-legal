@@ -1,4 +1,4 @@
-# 3 Stars Studio — Legal
+# 3StarStudio — Legal
 
 Privacy and data information for our apps.
 

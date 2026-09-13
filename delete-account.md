@@ -1,8 +1,8 @@
 # Delete Your Account & Data — Empire Ledger: Business Tycoon
 
-**Developer:** 3 Stars Studio · **Contact:** 3starsstudio@gmail.com
+**Developer:** 3StarStudio · **Contact:** 3starsstudio@gmail.com
 
-This page explains how to delete the account and data that **Empire Ledger: Business Tycoon** (by **3 Stars Studio**) stores on our servers. It exists so you can request deletion even if you no longer have the App installed.
+This page explains how to delete the account and data that **Empire Ledger: Business Tycoon** (by **3StarStudio**) stores on our servers. It exists so you can request deletion even if you no longer have the App installed.
 
 ---
 
