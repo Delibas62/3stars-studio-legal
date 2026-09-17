@@ -1,7 +1,7 @@
 # Privacy Policy — Empire Ledger: Business Tycoon
 
 **Developer:** 3StarStudio (independent developer)
-**Contact:** 3starsstudio@gmail.com
+**Contact:** 3starsstudioo@gmail.com
 **Effective date:** September 13, 2026
 **Last updated:** September 13, 2026
 
@@ -79,14 +79,14 @@ We share information only with the service providers listed in this policy (Goog
 Your anonymous cloud identity, together with its backup and leaderboard entry, is the only "account" the App creates. You can delete it at any time, in two ways:
 
 - **In the App:** open **Profile → Cloud Save → Delete my cloud data**. This permanently deletes your cloud backup, your leaderboard entry, and your anonymous identity from our servers, immediately and irreversibly.
-- **Outside the App (if you no longer have it installed):** visit our **[Account & Data Deletion page](./delete-account)** or email **3starsstudio@gmail.com** with the subject "Delete my Empire Ledger data" and your leaderboard display name. We will delete the matching records within 30 days and confirm by email.
+- **Outside the App (if you no longer have it installed):** visit our **[Account & Data Deletion page](./delete-account)** or email **3starsstudioo@gmail.com** with the subject "Delete my Empire Ledger data" and your leaderboard display name. We will delete the matching records within 30 days and confirm by email.
 
 Deleting your cloud data does not remove the game progress stored locally on your device.
 
 ### 7.2 Other choices
 - **Delete local data:** Uninstall the App or clear its storage in Android settings.
 - **Ads personalization:** Control it in your device settings (Section 2).
-- **Access / correction / erasure requests:** Because the App has no accounts, we cannot link data to you by name. If you have a request, contact us at **3starsstudio@gmail.com** and we will help within 30 days.
+- **Access / correction / erasure requests:** Because the App has no accounts, we cannot link data to you by name. If you have a request, contact us at **3starsstudioo@gmail.com** and we will help within 30 days.
 
 Depending on where you live (e.g. EU/EEA under GDPR, UK, California under CCPA/CPRA, Türkiye under KVKK), you may have additional rights such as access, rectification, erasure, restriction, portability, and objection. You may also lodge a complaint with your local data-protection authority.
 
@@ -119,5 +119,5 @@ This policy is published at a permanent public URL, is linked from the App's Goo
 
 ## 13. Contact
 **3StarStudio** — developer of *Empire Ledger: Business Tycoon* on Google Play
-Email: **3starsstudio@gmail.com**
+Email: **3starsstudioo@gmail.com**
 We aim to answer privacy inquiries within 30 days.

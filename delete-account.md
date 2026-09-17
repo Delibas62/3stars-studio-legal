@@ -1,6 +1,6 @@
 # Delete Your Account & Data — Empire Ledger: Business Tycoon
 
-**Developer:** 3StarStudio · **Contact:** 3starsstudio@gmail.com
+**Developer:** 3StarStudio · **Contact:** 3starsstudioo@gmail.com
 
 This page explains how to delete the account and data that **Empire Ledger: Business Tycoon** (by **3StarStudio**) stores on our servers. It exists so you can request deletion even if you no longer have the App installed.
 
@@ -24,7 +24,7 @@ Game progress stored locally on your phone is **not** affected (uninstall the Ap
 4. Confirm. Your cloud data is deleted immediately.
 
 ## Option 2 — Request deletion by email (no App needed)
-Send an email to **3starsstudio@gmail.com** with:
+Send an email to **3starsstudioo@gmail.com** with:
 
 - **Subject:** `Delete my Empire Ledger data`
 - **Body:** the **display name** you used on the leaderboard (if any) and, if you know it, the approximate date you last played.

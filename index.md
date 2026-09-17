@@ -6,4 +6,4 @@ Privacy and data information for our apps.
 - [Privacy Policy](./privacy-policy)
 - [Delete Your Account & Data](./delete-account)
 
-Contact: 3starsstudio@gmail.com
+Contact: 3starsstudioo@gmail.com
