@@ -38,6 +38,6 @@ We process requests **within 30 days** and reply by email when done. There is no
 ---
 
 ## Other data
-- **Advertising / purchases** (in versions where they exist) are handled by Google (AdMob, Google Play Billing) under your Google account — manage them in your device's Google settings and Play Store purchase history.
+- **Advertising / purchases** are handled by Google (AdMob, Google Play Billing) under your Google account — manage them in your device's Google settings and Play Store purchase history.
 
 Full details: see our [Privacy Policy](./privacy-policy).
