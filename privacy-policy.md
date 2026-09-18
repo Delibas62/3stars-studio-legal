@@ -38,7 +38,7 @@ The App does **not** include a third-party analytics SDK.
 
 ## 2. Advertising
 The App shows advertisements through **Google AdMob** to keep the game free: a banner on the Income screen and **optional rewarded ads** that you choose to watch for an in-game bonus. Players who buy *No Ads — Instant Rewards* see no banner and receive rewarded-ad bonuses without an ad. When ads are shown:
-- AdMob may collect the **advertising ID** of your device, IP address, and ad-interaction data to serve and measure ads, and may use it for personalization where permitted.
+- AdMob may collect the **advertising ID** of your device, your **IP address** (which can be used to estimate your **approximate location**), ad-interaction data and app-performance diagnostics to serve and measure ads, prevent fraud, and — where permitted — personalize ads.
 - You can opt out of personalized ads in your device settings (**Settings → Google → Ads → "Delete advertising ID"** or **"Opt out of Ads Personalization"**, depending on your Android version).
 - Where required by law (e.g. EU/EEA/UK), you will be shown a consent prompt before personalized ads are served.
 - Rewarded ads are always optional and only shown when you choose to watch them.
