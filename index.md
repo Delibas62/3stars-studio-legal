@@ -2,7 +2,7 @@
 
 Privacy and data information for our apps.
 
-## Empire Ledger: Business Tycoon
+## Empire Ledger: Idle Tycoon
 - [Privacy Policy](./privacy-policy)
 - [Delete Your Account & Data](./delete-account)
 

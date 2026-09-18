@@ -1,8 +1,8 @@
-# Delete Your Account & Data — Empire Ledger: Business Tycoon
+# Delete Your Account & Data — Empire Ledger: Idle Tycoon
 
 **Developer:** 3StarStudio · **Contact:** 3starsstudioo@gmail.com
 
-This page explains how to delete the account and data that **Empire Ledger: Business Tycoon** (by **3StarStudio**) stores on our servers. It exists so you can request deletion even if you no longer have the App installed.
+This page explains how to delete the account and data that **Empire Ledger: Idle Tycoon** (by **3StarStudio**) stores on our servers. It exists so you can request deletion even if you no longer have the App installed.
 
 ---
 
@@ -14,6 +14,8 @@ The App never asks for your email, name or password. Its only "account" is an **
 - the **anonymous user ID** itself.
 
 Game progress stored locally on your phone is **not** affected (uninstall the App or clear its storage to remove that).
+
+Deleting your data does **not** cancel a *Tycoon Premium* subscription — cancel it in **Google Play → Payments & subscriptions → Subscriptions**. Purchase records are kept by Google Play and RevenueCat as described in the [Privacy Policy](./privacy-policy).
 
 ---
 
