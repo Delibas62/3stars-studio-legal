@@ -31,7 +31,7 @@ Send an email to **3starsstudioo@gmail.com** with:
 - **Subject:** `Delete my Empire Ledger data`
 - **Body:** the **display name** you used on the leaderboard (if any) and, if you know it, the approximate date you last played.
 
-Because the App has no sign-up, we cannot look you up by name or email; the display name is how we locate your leaderboard record. If you never joined the leaderboard and no longer have the App, there is nothing on our servers that can be linked to you — but write to us anyway and we will confirm.
+Because the App has no sign-up, we cannot look you up by name or email; the display name is our only way to find your leaderboard record. Display names are not unique, so tell us anything else that helps us identify the right one — roughly when you last played and the net worth shown next to your name — and we will confirm with you before deleting anything. Deleting from inside the App (Section above) needs none of this and is immediate. If you never joined the leaderboard and no longer have the App, there is nothing on our servers that can be linked to you — but write to us anyway and we will confirm.
 
 We process requests **within 30 days** and reply by email when done. There is no other retention period: once deleted, the data is gone.
 

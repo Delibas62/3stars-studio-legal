@@ -3,7 +3,7 @@
 **Developer:** 3StarStudio (independent developer)
 **Contact:** 3starsstudioo@gmail.com
 **Effective date:** September 13, 2026
-**Last updated:** September 23, 2026
+**Last updated:** September 25, 2026
 
 This policy applies to the mobile application **Empire Ledger: Idle Tycoon** ("the App") published on Google Play by **3StarStudio** ("we", "us"). The App is an offline-first idle business-tycoon game. This policy explains what information the App handles, why, and the choices you have. We designed the App to collect as little as possible: **no account sign-up, no email, no real name, no contacts, no camera or microphone access**, and the App never asks for location permission. The advertising and crash-reporting services described in Sections 1.5 and 2 collect some device and technical data on their own; those sections explain exactly what.
 
@@ -32,12 +32,12 @@ Like most internet services, Firebase may temporarily process your **IP address*
 **Time check.** So that offline earnings are paid fairly and a changed device clock cannot be abused, the App asks a Google server for the current time when it starts, when you return to it, and before a leaderboard score is sent. This request contains **no game data and no identifier**; like any internet request, it reveals your IP address and basic technical information to Google. We keep nothing from it.
 
 ### 1.4 Notifications
-The App can send you **reminders about your own game** — a tax bill coming due, a build finishing, a warning before tax debt suspends your businesses, your offline earnings filling up, and an occasional nudge if you have not played for a while. These are **local notifications**: your device schedules and shows them by itself. **Nothing is sent to us or to any server, and we have no way to message your device.** You choose whether to turn them on (and which kinds) in **Profile → Notifications**; Android also asks for permission the first time. At most two are scheduled per day, and never between 23:00 and 09:00 local time. Turning them off in the App or in Android settings stops them immediately.
+The App can send you **reminders about your own game** — a tax bill coming due, a build finishing, a warning before tax debt suspends your businesses, your offline earnings filling up, a merger becoming available, and an occasional nudge if you have not played for a while. These are **local notifications**: your device schedules and shows them by itself, from information that never leaves it. **We do not send you push messages: the App never requests a push token, so no server of ours — or of anyone else — can address your device on our behalf.** You choose whether to turn them on (and which kinds) in **Profile → Notifications**; Android also asks for permission the first time. At most two are scheduled per day, and never between 23:00 and 09:00 local time. Turning them off in the App or in Android settings stops them immediately.
 
 ### 1.5 Crash reporting
 The App uses **Firebase Crashlytics** to find and fix crashes. When the App crashes or hits a serious error, Crashlytics sends a **crash report**: the error and stack trace, the device model, operating-system and app version, orientation and free memory at the time of the crash, and a random **Crashlytics installation ID** that is not linked to your identity. Crash reports are used only to fix bugs, are never used for advertising, and are kept for up to 90 days. See [Firebase Privacy and Security](https://firebase.google.com/support/privacy).
 
-The App does **not** include a third-party analytics SDK.
+The App does **not** include an analytics SDK of our own, and we do not receive analytics about how you play. The Google Mobile Ads SDK described in **Section 2** bundles Google's own measurement component, which it uses to measure and attribute ads; it starts only once ads do, after any consent required in your region.
 
 ---
 
