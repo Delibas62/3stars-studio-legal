@@ -7,15 +7,15 @@ This page explains how to delete the account and data that **Empire Ledger: Idle
 ---
 
 ## What gets deleted
-The App never asks for a password, and it only knows your email if you chose to link a Google account. Its only "account" is a **cloud identity** created when you first use an online feature (anonymous, or linked to the Google account you picked). Deleting it removes, permanently and irreversibly:
+The App never asks for a password, and it only knows your email if you chose to link a Google account. Its only "account" is a **cloud identity** created when you first use an online feature (anonymous, or linked to the Google account you picked or to Sign in with Apple). Deleting it removes, permanently and irreversibly:
 
 - your **cloud backup** (game save),
 - your **global leaderboard entry** (display name + score),
-- the **cloud identity** itself, including the linked Google account details (email, name, profile-picture link) if you linked one.
+- the **cloud identity** itself, including the linked Google account details (email, name, profile-picture link) or the Sign in with Apple identifier, if you linked one.
 
 Game progress stored locally on your phone is **not** affected (uninstall the App or clear its storage to remove that).
 
-Deleting your data does **not** cancel a *Tycoon Premium* subscription — cancel it in **Google Play → Payments & subscriptions → Subscriptions**. Purchase records are kept by Google Play and RevenueCat as described in the [Privacy Policy](./privacy-policy).
+Deleting your data does **not** cancel a *Tycoon Premium* subscription — cancel it in **Google Play → Payments & subscriptions → Subscriptions** (Android) or **Settings → your name → Subscriptions** (iPhone). Purchase records are kept by Google Play or Apple and by RevenueCat as described in the [Privacy Policy](./privacy-policy).
 
 ---
 
@@ -38,6 +38,6 @@ We process requests **within 30 days** and reply by email when done. There is no
 ---
 
 ## Other data
-- **Advertising / purchases** are handled by Google (AdMob, Google Play Billing) under your Google account — manage them in your device's Google settings and Play Store purchase history.
+- **Advertising / purchases** are handled by Google (AdMob, Google Play Billing) or, on iPhone, by Apple (App Store) — manage them in your device's settings and your store purchase history.
 
 Full details: see our [Privacy Policy](./privacy-policy).
