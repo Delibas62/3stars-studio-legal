@@ -29,7 +29,7 @@ Refunds are handled by the store you bought from. On iPhone, request one at [rep
 Hold that player's row on the leaderboard to **report** the name or **hide** the player from your board. Names are also filtered for offensive words automatically.
 
 **How do I delete my data?**
-In the game: **Profile → Cloud Save → Delete my cloud data**. Without the game installed: see our [Account & Data Deletion page](./delete-account).
+In the game: **Profile → Cloud Save → Delete account & cloud data**. Without the game installed: see our [Account & Data Deletion page](./delete-account).
 
 **Is any real money involved in the stock or crypto markets?**
 No. Empire Ledger is a simulation. All companies, coins and properties are fictional, and nothing in the game can be cashed out.

@@ -22,7 +22,7 @@ Deleting your data does **not** cancel a *Tycoon Premium* subscription — cance
 ## Option 1 — Delete inside the App (instant)
 1. Open **Empire Ledger**.
 2. Go to the **Profile** tab.
-3. In the **Cloud Save** card, tap **Delete my cloud data**.
+3. In the **Cloud Save** card, tap **Delete account & cloud data**.
 4. Confirm. Your cloud data is deleted immediately.
 
 ## Option 2 — Request deletion by email (no App needed)
